@@ -1,0 +1,10 @@
+{
+  "model_dir": "C:\\Users\\hudun\\Downloads\\ppt_editor_ocr\\ppt_editor_ocr\\ppt_editor_ocr\\.paddlex\\official_models",
+  "download_dir": "C:\\Users\\hudun\\Downloads\\ppt_editor_ocr\\ppt_editor_ocr\\ppt_editor_ocr\\models",
+  "ocr_device": "cpu",
+  "ocr_autoload": true,
+  "inpaint_api_url": "http://127.0.0.1:8080/api/v1/inpaint",
+  "inpaint_enabled": true,
+  "autosave_enabled": true,
+  "autosave_interval": 300
+}
